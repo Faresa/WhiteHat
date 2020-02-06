@@ -3,7 +3,7 @@ This project is created for review by WhiteHat
 
 Notes:
 
-Download or Clone this repo on your local machine and accesss it via the index.html page
+Download or Clone this repo on your local machine and accesss it via the index.html page, then click on filters to start browsing the catalogue
 
 Hits:
   Full object oriented server side functionality :)
@@ -11,7 +11,7 @@ Hits:
 
 
 Misses:
-  Jquery works after initial click
+  Jquery works after initial click 
   
   lack of dev time for hover styling & ribbons
   
